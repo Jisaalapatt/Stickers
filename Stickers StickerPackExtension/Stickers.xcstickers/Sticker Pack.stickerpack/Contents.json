@@ -1,0 +1,38 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "large"
+  },
+  "stickers" : [
+    {
+      "filename" : "Smiley1.sticker"
+    },
+    {
+      "filename" : "Smiley2.sticker"
+    },
+    {
+      "filename" : "Smiley3.sticker"
+    },
+    {
+      "filename" : "Smiley4.sticker"
+    },
+    {
+      "filename" : "Smiley5.sticker"
+    },
+    {
+      "filename" : "Smiley6.sticker"
+    },
+    {
+      "filename" : "Excited.sticker"
+    },
+    {
+      "filename" : "SmileyAnimate.sticker"
+    },
+    {
+      "filename" : "YouTube.sticker"
+    }
+  ]
+}
